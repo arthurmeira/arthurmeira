@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github.com/arthurmeira/arthurmeira/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
-
-<img src="[https://github.com/arthurmeira)" alt="Contribution" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=MatheusAlvarez&amp;theme=gotham&amp;hide_border=true&amp;area=true" style="max-width: 100%;">
