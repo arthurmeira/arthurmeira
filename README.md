@@ -8,10 +8,12 @@
   
 - Aprendendo programação web <br>
 - Autodidata nos estudos <br>
-- Planos para o futuro: Trabalhar com programação <br>
-
+- Planos para o futuro: Trabalhar com programação 
+  
 </h4>
 
+<br>
+<br>
 
 <div align="center">
 
