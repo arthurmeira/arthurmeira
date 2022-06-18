@@ -8,7 +8,7 @@
   
 - 🧠 Aprendendo programação web <br>
 - 💡 Autodidata nos estudos <br>
-- ⏳ Planos para o futuro: Me tornar um desenvolvedor
+- 📈 0,1% melhor todos os dias
   
 </h4>
 
