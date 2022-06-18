@@ -8,7 +8,7 @@
   
 - Aprendendo programação web <br>
 - Autodidata nos estudos <br>
-- Planos para o futuro: Trabalhar com programação 
+- Planos para o futuro: Me tornar um desenvolvedor
   
 </h4>
 
