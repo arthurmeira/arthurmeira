@@ -31,4 +31,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmeira&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Meira-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/PHP/php-plain.svg">
+  <img align="center" alt="Meira-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Meira-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Meira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Meira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Meira-pic" height="150" style="border-radius:50px;"     src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+  
 <img src="https://github.com/arthurmeira/arthurmeira/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
