@@ -6,9 +6,9 @@
 
 <h4> 
   
-🧠 Aprendendo programação web <br>
-💡 Autodidata nos estudos <br>
-⏳ Planos para o futuro: Trabalhar com programação <br>
+- Aprendendo programação web <br>
+- Autodidata nos estudos <br>
+- Planos para o futuro: Trabalhar com programação <br>
 
 </h4>
 
