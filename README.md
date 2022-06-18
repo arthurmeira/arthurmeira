@@ -6,9 +6,9 @@
 
 <h4> 
   
-- Aprendendo programação web <br>
-- Autodidata nos estudos <br>
-- Planos para o futuro: Me tornar um desenvolvedor
+- 🧠 Aprendendo programação web <br>
+- 💡 Autodidata nos estudos <br>
+- ⏳ Planos para o futuro: Me tornar um desenvolvedor
   
 </h4>
 
@@ -24,6 +24,7 @@
 </div>
 </div>
 
+<br>
 
 <div align="center" dir="auto">
   
