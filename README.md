@@ -1,6 +1,6 @@
-<h2> Olá, me chamo Arthur Meira, sou estudante, tenho 17 anos e pretendo me tornar um desenvolvedor! 👋 </h2>
+<h2> Olá, me chamo Arthur Meira 👋 </h2>
 
-sou estudante, tenho 17 anos e vou me tornar um desenvolvedor!
+### Sou estudante, tenho 17 anos e pretendo me tornar um desenvolvedor!
 
 <hr>
 
