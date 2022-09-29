@@ -1,6 +1,6 @@
 <h2> Hello, World 👋 </h2>
 
-<h3> Eu sou o Arthur, tenho 18 anos e estou estudando programação web. m!
+<h3> Eu sou o Arthur, tenho 18 anos e estou estudando programação web.
 
 <hr>
 
