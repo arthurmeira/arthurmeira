@@ -6,7 +6,7 @@
 
 <h4> 
   
-- 🧠 Aprendendo programação web <br>
+- 🧠 Programação web <br>
 - 💡 Autodidata nos estudos <br>
 - 📈 0,1% melhor todos os dias
   
