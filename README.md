@@ -4,14 +4,6 @@
 
 <hr>
 
-<h4> 
-  
-- 🧠 Programação web <br>
-- 💡 Autodidata nos estudos <br>
-- 📈 0,1% melhor todos os dias
-  
-</h4>
-
 <div align="center">
 
 <h2> Entre em contato comigo: </h2>
