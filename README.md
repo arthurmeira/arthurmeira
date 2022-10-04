@@ -5,8 +5,8 @@
 <h4> 
   
 - Programação web <br>
-- Javascript  <br>
-- PHP
+- <img align="center" alt="Meira-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> Javascript  <br>
+- <img align="center" alt="Meira-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> PHP
   
 </h4>
 <div align="center">
