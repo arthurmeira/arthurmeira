@@ -2,8 +2,6 @@
 
 <h3> Eu sou o Arthur, tenho 18 anos e estou estudando programação web.
 
-<hr>
-
 <div align="center">
 
 <h2> Entre em contato comigo: </h2>
