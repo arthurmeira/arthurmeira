@@ -1,10 +1,6 @@
-<h2> Hello, World 👋 </h2>
+<h2> Hello, World </h2>
 
-<h3> Eu sou o Arthur, tenho 18 anos e estou estudando programação web.
-
-<div align="center">
-
-<h2> Entre em contato comigo: </h2>
+<h2> Contato: </h2>
   
 <div>
   <a href="http://arthurmeiraprog@gmail.com/" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
