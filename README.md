@@ -4,9 +4,9 @@
 
 <h4> 
   
-- 🧠 Aprendendo programação web <br>
-- 💡 Autodidata nos estudos <br>
-- 📈 0,1% melhor todos os dias
+- Programação web <br>
+- Javascript  <br>
+- PHP
   
 </h4>
 <div align="center">
