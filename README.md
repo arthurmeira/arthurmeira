@@ -31,7 +31,11 @@
 <div align="center" dir="auto">
   
 
-  
+  <div align="center">
+  <a href="https://github.com/arthurmeira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurmeira&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmeira&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
  
   
 <img src="https://github.com/arthurmeira/arthurmeira/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
