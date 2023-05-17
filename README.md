@@ -1,5 +1,5 @@
 <h2>Olá 👋, me chamo Arthur Meira</h2>
-<h5>Cursando ciência da computação</h5>
+<h4>Cursando ciência da computação</h4>
 
 <hr>
 
