@@ -1,7 +1,7 @@
 <h2>Olá 👋, me chamo Arthur Meira</h2>
 <h4>Cursando ciência da computação</h4>
 
-<hr>
+
 
 :small_blue_diamond: No momento, estudando <b>Java</b> e <b>C</b>
 <br>
