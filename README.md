@@ -4,4 +4,5 @@
 <hr>
 
 :small_blue_diamond: No momento, estudando <b>Java</b> e <b>C</b>
+<br>
 :small_blue_diamond: Possuo técninco em informática completo
