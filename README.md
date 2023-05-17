@@ -3,5 +3,5 @@
 
 <hr>
 
-<li> 🌱 No momento, estudando <b>Java</b> e <b>C</b>
+<li> :man_technologist: No momento, estudando <b>Java</b> e <b>C</b>
 <li> 👯 Possuo técninco em informática completo
