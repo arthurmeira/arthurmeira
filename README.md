@@ -3,5 +3,5 @@
 
 <hr>
 
-<li> :man_technologist: No momento, estudando <b>Java</b> e <b>C</b>
-<li> 👯 Possuo técninco em informática completo
+<li> :small_blue_diamond: No momento, estudando <b>Java</b> e <b>C</b>
+<li> :small_blue_diamond: Possuo técninco em informática completo
