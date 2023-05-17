@@ -9,5 +9,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurmeira&show_icons=true&theme=gotham)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmeira&hide=javascript,html)](https://github.com/arthurmeira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmeira&layout=compact)](https://github.com/arthurmeira/github-readme-stats)
