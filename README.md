@@ -9,4 +9,5 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurmeira&show_icons=true&theme=radical)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmeira&hide=javascript,html)](https://github.com/arthurmeira/github-readme-stats)
