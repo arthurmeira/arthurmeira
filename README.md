@@ -7,6 +7,6 @@
 <br>
 :small_blue_diamond: Possuo técninco em informática completo
 
-
+<div style="text-align :center;">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurmeira&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmeira&layout=compact)](https://github.com/arthurmeira/github-readme-stats)
+ </div>
