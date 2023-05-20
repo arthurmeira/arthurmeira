@@ -1,6 +1,6 @@
 <h2>Olá 👋, me chamo Arthur Meira</h2>
-<h4>Cursando ciência da computação</h4>
-<hr>
+:small_blue_diamond: Cursando ciência da computação
+<br>
 :small_blue_diamond: No momento, estudando <b>Java</b> e <b>C</b>
 <br>
 :small_blue_diamond: Possuo técninco em informática completo
