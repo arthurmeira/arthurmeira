@@ -1,7 +1,7 @@
 <h2>Olá 👋, me chamo Arthur Meira</h2>
-:small_blue_diamond: Cursando ciência da computação
+:small_blue_diamond: Cursando ciência da computação.
 <br>
-:small_blue_diamond: Técnico em informática completo
+:small_blue_diamond: Técnico em informática.
 <br><br>
 <div>
 <a href="https://github.com/arthurmeira">
